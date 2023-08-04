@@ -5,4 +5,4 @@ Two packages required to be installed on a new system are MAVLInk and MAVROS ros
 1. MAVROS - https://dev.px4.io/v1.11_noredirect/en/ros/mavros_installation.html
 2. MAVLInk - http://wiki.ros.org/mavlink.
 
-Important ROS package are  - Surveillance_pkg, Waypoint_planner and Image_processor included in this repository.
+Important ROS package are  - **Surveillance_pkg**, **Waypoint_planner** and **Image_processor** included in this repository.
